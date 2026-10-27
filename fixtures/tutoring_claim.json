@@ -1,0 +1,12 @@
+{
+  "study_type": "observational_cohort",
+  "effect_estimate": 5.0,
+  "effect_ci": [1.1, 8.9],
+  "p_value": 0.012,
+  "n_per_arm": 200,
+  "outcome_unit": "exam_points",
+  "baseline_outcome": 60.0,
+  "outcome_sd": 12.0,
+  "raw_text": "Students who participated in the after-school tutoring program scored 5 points higher on the end-of-term exam than students who did not (95% CI 1.1 to 8.9; p = 0.012; N ~ 200 per group). Baseline mean 60 points, SD 12. Observational cohort.",
+  "source_label": "synthetic"
+}
